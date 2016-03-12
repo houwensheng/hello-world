@@ -1,5 +1,6 @@
 # hello-world
-start of programmer\n
-my first step on github\n
+start of programmer
+
+my first step on github
 
 Do something new.
